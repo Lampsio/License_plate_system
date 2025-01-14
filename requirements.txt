@@ -1,0 +1,9 @@
+fastapi 
+motor 
+pydantic 
+uvicorn
+inference_sdk
+easyocr
+numpy
+opencv-python-headless
+pytz
