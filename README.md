@@ -25,3 +25,5 @@ The Parking Management System is a straightforward solution designed to read veh
 
 ## Result
 <img src="Auto.png" alt="JavaPaint Screenshot">
+
+<img src="Wykresy.png" alt="JavaPaint Screenshot">
