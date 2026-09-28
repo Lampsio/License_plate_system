@@ -22,3 +22,6 @@ The Parking Management System is a straightforward solution designed to read veh
 ### Prerequisites
 - Docker
 - Python 3.8 or higher
+
+## Result
+<img src="Auto.png" alt="JavaPaint Screenshot">
